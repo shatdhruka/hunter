@@ -1,7 +1,7 @@
 import java.lang.*;
 import java.util.*;
 import java.io.*;
-class DuplicateSort 
+public class DuplicateSort 
 {
     public static void duplicate(int a[],int n)
     {
